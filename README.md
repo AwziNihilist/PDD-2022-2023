@@ -1,2 +1,2 @@
-# SUCC
-Super-Ultra Clustering Computator
+# PDD
+Bitcoin clustering tool  
